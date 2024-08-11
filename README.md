@@ -40,8 +40,8 @@ This system allows users to authenticate via a Personal Access Token and access 
 1. **Clone the repository:**
 
    ```bash
-   git git link
-   cd repo name
+   git clone https://github.com/MuhammadHassan1998/angelcam-video-management.git
+   cd angelcam-video-management
    ```
 
 2. **Create and activate a virtual environment:**
